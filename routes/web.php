@@ -61,3 +61,4 @@ Route::resource('/PinkFloyd',LandingpagePinkFloydController::class);
 Route::resource('/JustinBieber',LandingPageColdPlayerController::class);
 Route::resource('/Category',CategoryController::class);
 Route::resource('/dashboard',DashboardController::class);
+//
